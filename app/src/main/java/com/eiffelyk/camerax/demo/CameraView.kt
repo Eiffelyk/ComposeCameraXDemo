@@ -126,7 +126,7 @@ fun CameraView(
             },
             content = {
                 Image(
-                    painter = painterResource(id = R.mipmap.ic_launcher),
+                    painter = painterResource(id = R.mipmap.privacy_check),
                     contentDescription = "Take picture",
                     modifier = Modifier
                         .size(100.dp)
